@@ -1,3 +1,10 @@
 body {
-    background: #202135;
+  background: #202135;
+}
+
+.footer{
+    height: 50vh;
+}
+.lanzamiento {
+  height: 100vh;
 }
