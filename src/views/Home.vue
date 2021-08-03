@@ -17,7 +17,7 @@
       </div>
     </div>
     <div class="row completo">
-      <div class="col-sm d-flex align-items-center">
+      <div class="col-sm d-none d-md-block d-flex align-items-center">
         <img src="imagen2.png" width="100%" alt="" />
       </div>
       <div class="col-sm d-flex align-items-center">
@@ -28,6 +28,9 @@
             en vender o en comprar si es lo que necesitas.
           </p>
         </div>
+      </div>
+      <div class="col-sm d-block d-sm-none d-flex align-items-center">
+        <img src="imagen2.png" width="100%" alt="" />
       </div>
     </div>
     <div class="row completo">
